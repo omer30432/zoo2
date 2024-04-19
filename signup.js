@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
     .addEventListener("submit", createNewVisitor);
 
   document.getElementById("go-to-login").addEventListener("click", function () {
-    window.location.href = "/login.html";
+    window.location.href = "/zoo2/login.html";
   });
 });
 
